@@ -1,3 +1,11 @@
+CRUD con Django
+Este software esta diseñado para hacer gestion de la base de datos de capacitaciones para migración colombia
+
+Tablas:
+Regionales
+Ciudad
+Empleados
+capacitaciones
 Instalación:
 Se descarga el archivo Project-Capcitacions en la rama main
 
